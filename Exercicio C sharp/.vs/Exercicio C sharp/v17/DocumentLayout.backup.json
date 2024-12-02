@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fegaG\\Desktop\\Exercicios-While-C-Sharp\\Exercicio C sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5C4CB-955F-4B4B-AD1B-2B46090B87A4}|Exercicio C sharp\\Exercicio C sharp.csproj|c:\\users\\fegag\\desktop\\exercicios-while-c-sharp\\exercicio c sharp\\exercicio c sharp\\contagem regressiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5C4CB-955F-4B4B-AD1B-2B46090B87A4}|Exercicio C sharp\\Exercicio C sharp.csproj|solutionrelative:exercicio c sharp\\contagem regressiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B5C4CB-955F-4B4B-AD1B-2B46090B87A4}|Exercicio C sharp\\Exercicio C sharp.csproj|c:\\users\\fegag\\desktop\\exercicios-while-c-sharp\\exercicio c sharp\\exercicio c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B5C4CB-955F-4B4B-AD1B-2B46090B87A4}|Exercicio C sharp\\Exercicio C sharp.csproj|solutionrelative:exercicio c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contagem Regressiva.cs",
+              "DocumentMoniker": "C:\\Users\\fegaG\\Desktop\\Exercicios-While-C-Sharp\\Exercicio C sharp\\Exercicio C sharp\\Contagem Regressiva.cs",
+              "RelativeDocumentMoniker": "Exercicio C sharp\\Contagem Regressiva.cs",
+              "ToolTip": "C:\\Users\\fegaG\\Desktop\\Exercicios-While-C-Sharp\\Exercicio C sharp\\Exercicio C sharp\\Contagem Regressiva.cs",
+              "RelativeToolTip": "Exercicio C sharp\\Contagem Regressiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:49:08.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fegaG\\Desktop\\Exercicios-While-C-Sharp\\Exercicio C sharp\\Exercicio C sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio C sharp\\Program.cs",
+              "ToolTip": "C:\\Users\\fegaG\\Desktop\\Exercicios-While-C-Sharp\\Exercicio C sharp\\Exercicio C sharp\\Program.cs",
+              "RelativeToolTip": "Exercicio C sharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:56:01.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

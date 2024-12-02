@@ -1,0 +1,14 @@
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\bin\Debug\net8.0\Exercicio C sharp.exe
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\bin\Debug\net8.0\Exercicio C sharp.deps.json
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\bin\Debug\net8.0\Exercicio C sharp.runtimeconfig.json
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\bin\Debug\net8.0\Exercicio C sharp.dll
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\bin\Debug\net8.0\Exercicio C sharp.pdb
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.AssemblyInfoInputs.cache
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.AssemblyInfo.cs
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.csproj.CoreCompileInputs.cache
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.dll
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\refint\Exercicio C sharp.dll
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.pdb
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\Exercicio C sharp.genruntimeconfig.cache
+C:\Users\fegaG\Desktop\Exercicios-While-C-Sharp\Exercicio C sharp\Exercicio C sharp\obj\Debug\net8.0\ref\Exercicio C sharp.dll
